@@ -32,9 +32,6 @@ const John_Marcel = {
 
 <a href="https://github.com/JohnMarcelSilveira">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnMarcelSilveira&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/JohnMarcelSilveira">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JohnMarcelSilveira&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
