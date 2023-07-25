@@ -31,8 +31,8 @@ const John_Marcel = {
 ## Status
 
 <a href="https://github.com/JohnMarcelSilveira">
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnMarcelSilveira&theme=react&hide_langs_below=1_height=27" />
- <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=JohnMarcelSilveira&show_icons=true&theme=react&line_height=27" alt="John Marcel Silveira github stats"/>
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnMarcelSilveira&theme=react&hide_langs_below=1_height=27&card_width=450" />
+ <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=JohnMarcelSilveira&show_icons=true&theme=react&line_height=27&card_width=400" alt="John Marcel Silveira github stats"/>
 </a>
 
 [instagram]: https://www.instagram.com/j.marcell.silveira/
