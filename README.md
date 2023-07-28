@@ -10,7 +10,6 @@ Sou estudante de tecnologia e esse meu git é de estudos.
 const John_Marcel = {
     name: "John Marcel Silveira",
     acknowledgements: "Análise e Desenvolvimento de Sistemas",
-    primarySkillset: "Git, Controle de Versão, Desenvolvimento Web com HTML, CSS e JavaScript",
     languages: ["Java", "Python", "JavaScript", "C#"]
 };
 ```
